@@ -1,5 +1,3 @@
-# Day 1 — Reactive Use Case
-
 ## Project
 Rogues Studio — World of Rogues
 
